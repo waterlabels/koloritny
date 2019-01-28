@@ -1857,55 +1857,26 @@ body {
 .cid-rbbyuuzZzr H2 {
   color: #ffffff;
 }
-.cid-rbyOstotxL {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #0a5bb6;
+.cid-rgqsU2RWC8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #0a5bb6;
 }
-.cid-rbyOstotxL .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
+.cid-rgqsU2RWC8 .image-block {
+  margin: auto;
 }
-.cid-rbyOstotxL .mbr-author-name {
-  font-weight: bold;
-  color: #ffffff;
+.cid-rgqsU2RWC8 figcaption {
+  position: relative;
 }
-.cid-rbyOstotxL .mbr-author-desc {
-  color: #232;
+.cid-rgqsU2RWC8 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
-.cid-rbDskcKORI {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #0a5bb6;
-}
-.cid-rbDskcKORI .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-}
-.cid-rbDskcKORI .mbr-author-name {
-  font-weight: bold;
-}
-.cid-rbDskcKORI .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-rbE2eUPk4y {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #0a5bb6;
-}
-.cid-rbE2eUPk4y .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
-}
-.cid-rbE2eUPk4y .mbr-author-name {
-  font-weight: bold;
-  color: #ffffff;
-}
-.cid-rbE2eUPk4y .mbr-author-desc {
-  color: #232;
+@media (max-width: 768px) {
+  .cid-rgqsU2RWC8 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rbbzpOY83c {
   padding-top: 60px;
