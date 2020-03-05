@@ -1090,9 +1090,23 @@ section.lazy-placeholder:after {
 .cid-qGSzBgc4lU .dropdown-item:hover {
   color: #f9f295 !important;
 }
+.cid-rSmP6puEtl {
+  background: #0f0ab6;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #0f0ab6, #0f0ab6);
+}
+.cid-rSmP6puEtl .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rSmP6puEtl .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qGSzFFVIxk {
-  padding-top: 135px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #0f0ab6;
 }
 .cid-qGSDXL8gMu {
