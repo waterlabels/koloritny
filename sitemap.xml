@@ -1,23 +1,39 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://koloritny.ru/index.html</loc>
-	</url>
-	<url>
-		<loc>http://koloritny.ru/remont.html</loc>
-	</url>
-	<url>
-		<loc>http://koloritny.ru/page3.html</loc>
-	</url>
-	<url>
-		<loc>http://koloritny.ru/page4.html</loc>
-	</url>
-	<url>
-		<loc>http://koloritny.ru/page5.html</loc>
-	</url>
-	<url>
-		<loc>http://koloritny.ru/page6.html</loc>
-	</url>
-	<url>
-		<loc>http://koloritny.ru/page7.html</loc>
-	</url>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://avtograd-coloritny.ru/</loc>
+	<lastmod>2020-02-11T12:45:43+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://avtograd-coloritny.ru/index.html</loc>
+	<lastmod>2020-02-11T12:45:43+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://avtograd-coloritny.ru/remont.html</loc>
+	<lastmod>2020-02-11T12:45:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://avtograd-coloritny.ru/page3.html</loc>
+	<lastmod>2020-02-11T12:45:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://avtograd-coloritny.ru/page4.html</loc>
+	<lastmod>2020-02-11T12:45:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://avtograd-coloritny.ru/page5.html</loc>
+	<lastmod>2020-02-11T12:45:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://avtograd-coloritny.ru/page6.html</loc>
+	<lastmod>2020-02-11T12:45:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
 </urlset>
